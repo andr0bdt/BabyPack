@@ -1,0 +1,72 @@
+# BabyPack — Politique de confidentialité / Privacy Policy
+
+_Dernière mise à jour : 2026-11-08_
+
+## Français
+
+BabyPack est une application de listes de bagages pour bébé. Nous attachons une
+grande importance à ta vie privée.
+
+**Aucune collecte de données.** BabyPack ne crée pas de compte, ne demande pas
+d'identité, et n'envoie aucune de tes données à nos serveurs. Nous n'avons
+d'ailleurs aucun serveur : **toutes tes listes sont stockées uniquement sur ton
+téléphone**.
+
+**Aucun suivi, aucune publicité.** L'application ne contient aucun traceur,
+aucun outil d'analyse et aucune publicité.
+
+**Météo.** Pour afficher la météo de ton lieu de voyage, l'application envoie le
+**nom de la ville que tu saisis** au service gratuit Open-Meteo
+(https://open-meteo.com). Cette requête est anonyme, n'est associée à aucune
+identité, et aucune donnée n'est conservée par nous. Tu peux aussi saisir la
+météo manuellement, sans aucun appel réseau.
+
+**Partage de liste.** Si tu partages une liste, elle est envoyée sous forme de
+fichier (`.babypack`) via l'application de ton choix (messagerie, e-mail…),
+directement aux personnes que tu choisis. Elle ne passe par aucun serveur à nous
+et nous n'y avons jamais accès. Le fichier n'est pas chiffré : ne le partage
+qu'avec des personnes de confiance.
+
+**Liens externes.** Les boutons « Soutenir le développeur » et « Suggérer une
+amélioration » ouvrent un service externe (page de don, e-mail ou formulaire)
+que nous ne contrôlons pas et qui a sa propre politique de confidentialité.
+
+**Permissions.** Internet (uniquement pour la météo).
+
+**Enfants.** L'application ne collecte aucune donnée, y compris concernant les
+enfants.
+
+Contact : andr0bdt@gmail.com
+
+---
+
+## English
+
+BabyPack is a baby packing-list app. We care deeply about your privacy.
+
+**No data collection.** BabyPack has no account, asks for no identity, and sends
+none of your data to our servers. In fact we have no servers: **all your lists
+are stored only on your phone**.
+
+**No tracking, no ads.** The app contains no trackers, no analytics and no
+advertising.
+
+**Weather.** To show the weather for your destination, the app sends the **city
+name you type** to the free Open-Meteo service (https://open-meteo.com). This
+request is anonymous, is not tied to any identity, and no data is kept by us.
+You may also enter the weather manually, with no network call at all.
+
+**List sharing.** If you share a list, it is sent as a file (`.babypack`)
+through the app of your choice (messaging, email…), directly to the people you
+choose. It never goes through any server of ours and we never have access. The
+file is not encrypted: only share it with people you trust.
+
+**External links.** The "Support the developer" and "Suggest an improvement"
+buttons open an external service (donation page, email or form) that we do not
+control and which has its own privacy policy.
+
+**Permissions.** Internet (weather only).
+
+**Children.** The app collects no data, including about children.
+
+Contact: andr0bdt@gmail.com
